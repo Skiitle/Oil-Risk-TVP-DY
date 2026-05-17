@@ -1,0 +1,4 @@
+"variable","description","unit","source","frequency","time_range","transformation"
+"extraction","石油开采III 指数收盘价","点","Wind","日频","2025-01-02 to 2026-04-17","对数收益率 * 100"
+"refining","炼油 指数收盘价","点","Wind","日频","2025-01-02 to 2026-04-17","对数收益率 * 100"
+"trading","油品贸易及销售 指数收盘价","点","Wind","日频","2025-01-02 to 2026-04-17","对数收益率 * 100"

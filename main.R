@@ -1,0 +1,12 @@
+# main.R
+source("01_data_description.R")
+source("02_hmm_state_identification.R")
+source("03_hmm_regime_assignment.R")
+source("04_overflow_matrix.R")
+source("05_tvp_var_dy.R")
+source("06_tvp_var_dy_network.R")
+source("07_tvp_var_dy_plot.R")
+source("08_model_comparison.R")
+source("09_robustness_hmm.R")
+source("10_robustness_variable_order.R")
+source("11_granger_experiment.R")
