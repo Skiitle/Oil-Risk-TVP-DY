@@ -35,4 +35,5 @@ The data used in this paper are sourced from the **Wind database**. Due to licen
 
 This code is written in R. Required packages:
 
-\`\`\`r install.packages(c( "tidyverse", "MSwM", \# Hidden Markov Models "vars", \# VAR models "igraph", \# Network visualization "ggplot2", \# Plotting "zoo", \# Time series "fUnitRoots" \# Stationarity tests ))
+```r install.packages(c( "tidyverse", "MSwM", \# Hidden Markov Models "vars", \# VAR models "igraph", \# Network visualization "ggplot2", \# Plotting "zoo", \# Time series "fUnitRoots" \# Stationarity tests ))
+```
