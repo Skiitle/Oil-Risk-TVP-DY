@@ -35,5 +35,23 @@ The data used in this paper are sourced from the **Wind database**. Due to licen
 
 This code is written in R. Required packages:
 
-```r install.packages(c( "tidyverse", "MSwM", \# Hidden Markov Models "vars", \# VAR models "igraph", \# Network visualization "ggplot2", \# Plotting "zoo", \# Time series "fUnitRoots" \# Stationarity tests ))
+```r
+install.packages(c(
+  "readxl",      # Read Excel files
+  "readr",       # Read CSV files
+  "dplyr",       # Data manipulation
+  "tidyr",       # Data tidying
+  "purrr",       # Functional programming
+  "tseries",     # Time series tests (ADF)
+  "moments",     # Skewness and kurtosis
+  "ggplot2",     # Plotting
+  "FinTS",       # ARCH-LM test
+  "patchwork",   # Combine multiple plots
+  "igraph",      # Network visualization
+  "zoo",         # Rolling window operations
+  "lmtest",      # Diagnostic tests
+  "showtext",    # Chinese font support (optional)
+  "fHMM",        # Hidden Markov Models
+  "ConnectednessApproach"  # TVP-VAR-DY spillover
+))
 ```
