@@ -55,3 +55,13 @@ install.packages(c(
   "ConnectednessApproach"  # TVP-VAR-DY spillover
 ))
 ```
+
+## Contributors
+
+- **Wang Ruoying** - Code implementation, analysis, manuscript
+- **Liu Qingyang** - Data collection, visualization
+- **Tang Yichong** - Literature review, manuscript revision
+
+## Acknowledgments
+
+We thank **Prof. Lyu Shaogao** for his supervision and guidance throughout this project.
