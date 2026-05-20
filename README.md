@@ -56,6 +56,12 @@ install.packages(c(
 ))
 ```
 
+## Key result
+
+<img width="1687" height="562" alt="Image" src="https://github.com/user-attachments/assets/fe12774d-72ff-4545-a1bb-e71165e86a9c" />
+
+*Figure: Dynamic evolution of total connectedness index (TCI) during the sample period. Shaded areas indicate high-volatility regimes identified by HMM. The TCI shows abnormal decline before the US-Israel-Iran conflict, suggesting a potential early-warning signal.*
+
 ## Contributors
 
 - **Wang Ruoying** - Code implementation, analysis, manuscript
@@ -65,3 +71,4 @@ install.packages(c(
 ## Acknowledgments
 
 We thank **Prof. Lyu Shaogao** for his supervision and guidance throughout this project.
+
